@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/NandiniVerma994/Leetcode/tree/master/0001-two-sum) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Depth-First Search
 |  |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NandiniVerma994/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
