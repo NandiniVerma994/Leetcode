@@ -3,7 +3,7 @@ public:
     bool canFinish(int V, vector<vector<int>>& prerequisites) {
         vector<int> adj[V];
         for(auto it: prerequisites) {
-            adj[it[1]].push_back(it[0]);
+            adj[it[1]].push_back(it[0]);//pairs have been reversed
         }
 
         vector<int> indegree(V, 0);
