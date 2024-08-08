@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +49,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
