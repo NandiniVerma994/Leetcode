@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/NandiniVerma994/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Hash Table
 |  |
@@ -69,5 +72,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
