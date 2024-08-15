@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NandiniVerma994/Leetcode/tree/master/0001-two-sum) |
+| [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -23,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -34,12 +37,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
