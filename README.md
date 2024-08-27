@@ -87,4 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
