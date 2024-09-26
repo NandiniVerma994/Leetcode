@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/NandiniVerma994/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NandiniVerma994/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NandiniVerma994/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
 ## Topological Sort
 |  |
 | ------- |
@@ -104,4 +106,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
