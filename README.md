@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/NandiniVerma994/Leetcode/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -176,5 +177,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/NandiniVerma994/Leetcode/tree/master/0724-find-pivot-index) |
 | [1983-maximum-population-year](https://github.com/NandiniVerma994/Leetcode/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
