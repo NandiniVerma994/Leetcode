@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1983-maximum-population-year](https://github.com/NandiniVerma994/Leetcode/tree/master/1983-maximum-population-year) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
+| [1983-maximum-population-year](https://github.com/NandiniVerma994/Leetcode/tree/master/1983-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/NandiniVerma994/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/NandiniVerma994/Leetcode/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/NandiniVerma994/Leetcode/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
