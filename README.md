@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/NandiniVerma994/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/NandiniVerma994/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Topological Sort
 |  |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/NandiniVerma994/Leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
@@ -138,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/NandiniVerma994/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
