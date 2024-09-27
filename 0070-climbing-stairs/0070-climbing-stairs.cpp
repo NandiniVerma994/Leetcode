@@ -23,7 +23,7 @@ public:
     }*/
 
     //BOTTOM UP
-    int climbStairs(int n) {
+    /*int climbStairs(int n) {
         if(n == 1 || n == 2 || n == 3) {
             return n;
         }
@@ -37,5 +37,23 @@ public:
             arr[i] = arr[i-1] + arr[i-2];
         }
         return arr[n];
+    }*/
+
+    int climbStairs(int n) {
+        if(n == 1 || n == 2) {
+            return n;
+        }
+        //as we need to remember only the last two values
+        int a = 1;
+        int b = 2;
+        int c = 3;
+        for(int i=3; i<=n; i++) {
+            c = b + a;
+            int temp_b = b;
+            b = c;
+            a = temp_b;
+        }
+        return c;
+
     }
 };
