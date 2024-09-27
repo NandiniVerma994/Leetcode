@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/NandiniVerma994/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/NandiniVerma994/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -135,4 +137,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/NandiniVerma994/Leetcode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
