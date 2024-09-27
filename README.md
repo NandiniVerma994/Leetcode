@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NandiniVerma994/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/NandiniVerma994/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1013-fibonacci-number](https://github.com/NandiniVerma994/Leetcode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NandiniVerma994/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
 |  |
@@ -145,4 +146,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NandiniVerma994/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NandiniVerma994/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NandiniVerma994/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
