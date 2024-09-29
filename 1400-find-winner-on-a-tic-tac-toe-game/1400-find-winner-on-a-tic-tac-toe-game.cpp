@@ -52,7 +52,7 @@ public:
         else if(winner == 'O') {
             return "B";
         }
-        else if(n == 9) {
+        else if(n == 9) {//if all moves done and no winner till now then draw
             return "Draw";
         }
         return "Pending";
