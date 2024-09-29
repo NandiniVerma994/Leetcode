@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/NandiniVerma994/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1983-maximum-population-year](https://github.com/NandiniVerma994/Leetcode/tree/master/1983-maximum-population-year) |
 ## Depth-First Search
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/NandiniVerma994/Leetcode/tree/master/0130-surrounded-regions) |
 | [1073-number-of-enclaves](https://github.com/NandiniVerma994/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NandiniVerma994/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/NandiniVerma994/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1753-path-with-minimum-effort](https://github.com/NandiniVerma994/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/NandiniVerma994/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Topological Sort
 |  |
 | ------- |
@@ -181,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0724-find-pivot-index](https://github.com/NandiniVerma994/Leetcode/tree/master/0724-find-pivot-index) |
 | [1983-maximum-population-year](https://github.com/NandiniVerma994/Leetcode/tree/master/1983-maximum-population-year) |
+## Simulation
+|  |
+| ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/NandiniVerma994/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 <!---LeetCode Topics End-->
