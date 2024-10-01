@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/NandiniVerma994/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0874-backspace-string-compare](https://github.com/NandiniVerma994/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/NandiniVerma994/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0874-backspace-string-compare](https://github.com/NandiniVerma994/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/NandiniVerma994/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
@@ -217,10 +219,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/NandiniVerma994/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/NandiniVerma994/Leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/NandiniVerma994/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/NandiniVerma994/Leetcode/tree/master/1044-find-common-characters) |
 ## Queue
 |  |
