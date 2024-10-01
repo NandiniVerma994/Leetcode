@@ -49,9 +49,8 @@ public:
         int c = 3;
         for(int i=3; i<=n; i++) {
             c = b + a;
-            int temp_b = b;
+            a = b;
             b = c;
-            a = temp_b;
         }
         return c;
 
