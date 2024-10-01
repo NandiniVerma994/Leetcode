@@ -20,7 +20,7 @@ public:
         return solve(nums, 0,n, dp);
     }*/
     //BOTTOM UP
-    int rob(vector<int> &nums) {
+    /*int rob(vector<int> &nums) {
         int n = nums.size();
         
         vector<int> dp(101, 0);
@@ -34,5 +34,20 @@ public:
             dp[i] = max(steal, skip);
         }
         return dp[n];
+    }*/
+    //CONSTANT SPACE
+    int rob(vector<int> &nums) {
+        int n = nums.size();
+        if(n == 1) return nums[0];
+        int prevPrev = 0;
+        int prev = nums[0];
+        for(int i=2; i<=n; i++) {
+            int skip = prev;
+            int steal = nums[i-1] + prevPrev;
+            int temp = max(skip, steal);
+            prevPrev = prev;
+            prev = temp;
+        }
+        return prev;//since we need to return temp but now temp is stoed in prev
     }
 };
