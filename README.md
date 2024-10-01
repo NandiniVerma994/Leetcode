@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/NandiniVerma994/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NandiniVerma994/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Binary Search
 |  |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/NandiniVerma994/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/NandiniVerma994/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
