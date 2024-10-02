@@ -142,12 +142,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NandiniVerma994/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NandiniVerma994/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NandiniVerma994/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/NandiniVerma994/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NandiniVerma994/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NandiniVerma994/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NandiniVerma994/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Divide and Conquer
 |  |
@@ -229,5 +231,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NandiniVerma994/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NandiniVerma994/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
