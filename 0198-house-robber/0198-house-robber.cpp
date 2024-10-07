@@ -1,53 +1,23 @@
 class Solution {
 public:
-    //MEMOISATION
-    /*
-    int solve(vector<int>& nums, int i, int n, vector<int> &dp) {
-        if(i >= n) {
+    int solve(vector<int> &nums, int n, vector<int> &dp) {
+        if(n < 0) {
             return 0;
         }
-        if(dp[i] != -1) {
-            return dp[i];
+        if(n == 0) {
+            return nums[0];
         }
-        int steal = nums[i] + solve(nums, i+2, n, dp);
-        int skip = solve(nums, i+1, n, dp);
-        return dp[i] = max(steal, skip);
+        if(dp[n] != -1) {
+            return dp[n];
+        }
+        int inc = solve(nums, n-2, dp) + nums[n];
+        int exc = solve(nums, n-1, dp) + 0;
+        dp[n] = max(inc, exc);
+        return dp[n];
     }
-
     int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(101, -1);//size is till 100
-        return solve(nums, 0,n, dp);
-    }*/
-    //BOTTOM UP
-    /*int rob(vector<int> &nums) {
-        int n = nums.size();
-        
-        vector<int> dp(101, 0);
-        //dp[i] is the maximum stolen money till house i
-        dp[0] = 0;
-        dp[1] = nums[0];
-
-        for(int i=2; i<=n; i++) {
-            int steal = nums[i-1] + dp[i-2];
-            int skip = dp[i-1];
-            dp[i] = max(steal, skip);
-        }
-        return dp[n];
-    }*/
-    //CONSTANT SPACE
-    int rob(vector<int> &nums) {
-        int n = nums.size();
-        if(n == 1) return nums[0];
-        int prevPrev = 0;
-        int prev = nums[0];
-        for(int i=2; i<=n; i++) {
-            int skip = prev;
-            int steal = nums[i-1] + prevPrev;
-            int temp = max(skip, steal);
-            prevPrev = prev;
-            prev = temp;
-        }
-        return prev;//since we need to return temp but now temp is stoed in prev
+        vector<int> dp(n, -1);
+        return solve(nums, n-1, dp);
     }
 };
