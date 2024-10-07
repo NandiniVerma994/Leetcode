@@ -1,30 +1,30 @@
 class Solution {
 public:
-    //CONST SPACE
-    int solve(vector<int> &nums, int l, int r) {
-        int prev = 0;
-        int prevPrev = 0;
-        for(int i=l; i<=r; i++) {
-            int skip = prev;
-            int take = nums[i] + prevPrev;
-            int temp = max(skip, take);
-            prevPrev = prev;
-            prev = temp; 
-        }
-        return prev;
-    }
-
-    int rob(vector<int> &nums) {
+    int solve(vector<int>& nums) {
         int n = nums.size();
-        if(n == 1) {
-            return nums[0];
+        int prev2 = 0;
+        int prev1 = nums[0];
+        for(int i=1; i<n; i++) {
+            int inc = prev2 + nums[i];
+            int exc = prev1;
+            int curr = max(inc, exc);
+            prev2 = prev1;
+            prev1 = curr;
         }
-        if(n == 2) {
-            return max(nums[0], nums[1]);
+        return prev1;
+    }
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        if(n == 1) return nums[0];
+        vector<int> first, last;
+        for(int i=0; i<n; i++) {
+            if(i != n-1) {
+                first.push_back(nums[i]);
+            }
+            if(i != 0) {
+                last.push_back(nums[i]);
+            }
         }
-
-        int take_first_house = solve(nums, 0, n-2);
-        int skip_first_house = solve(nums, 1, n-1);
-        return max(take_first_house, skip_first_house);
+        return max(solve(first), solve(last));
     }
 };
