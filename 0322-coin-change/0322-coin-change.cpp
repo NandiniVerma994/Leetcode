@@ -1,5 +1,6 @@
 class Solution {
 public:
+//TC -> O(amt * coins)
     int solve(vector<int>& coins, int amount) {
         vector<int> dp(amount+1, INT_MAX);
         dp[0] = 0;
