@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NandiniVerma994/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0409-longest-palindrome](https://github.com/NandiniVerma994/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/NandiniVerma994/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -261,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/NandiniVerma994/Leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/NandiniVerma994/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
