@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NandiniVerma994/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/NandiniVerma994/Leetcode/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/NandiniVerma994/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/NandiniVerma994/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NandiniVerma994/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/NandiniVerma994/Leetcode/tree/master/0392-is-subsequence) |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NandiniVerma994/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/NandiniVerma994/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NandiniVerma994/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/NandiniVerma994/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/NandiniVerma994/Leetcode/tree/master/0409-longest-palindrome) |
